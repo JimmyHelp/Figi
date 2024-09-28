@@ -1,0 +1,10 @@
+{
+    "name": "Figi",
+    "description": "The mascot of figura",
+    "authors": [
+        "Slymeball (Art)","Wiki Contributors (Code)"
+    ],
+    "color": "default",
+    "customizations": {
+    }
+}
