@@ -11,4 +11,4 @@ Notes for Contributors:
 
 Before you contribute, turn .bbmodel compression off in your Blockbench settings.
 
-This option is in File -> Perferences -> Settings -> Export -> Minified Project Files
+This option is in File -> Preferences -> Settings -> Export -> Minified Project Files
